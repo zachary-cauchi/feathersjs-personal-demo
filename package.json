@@ -1,0 +1,23 @@
+{
+  "name": "feathersjs-personal-demo",
+  "version": "1.0.0",
+  "description": "Testing FeathersJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zach128/feathersjs-personal-demo.git"
+  },
+  "keywords": [
+    "feathersjs",
+    "demo"
+  ],
+  "author": "Zachary Cauchi <zach.cauchi@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zach128/feathersjs-personal-demo/issues"
+  },
+  "homepage": "https://github.com/Zach128/feathersjs-personal-demo#readme"
+}
