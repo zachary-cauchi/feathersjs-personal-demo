@@ -2,8 +2,9 @@
   "name": "feathersjs-personal-demo",
   "version": "1.0.0",
   "description": "Testing FeathersJS",
-  "main": "index.js",
+  "main": "app.ts",
   "scripts": {
+    "start": "ts-node app.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +20,10 @@
   "bugs": {
     "url": "https://github.com/Zach128/feathersjs-personal-demo/issues"
   },
-  "homepage": "https://github.com/Zach128/feathersjs-personal-demo#readme"
+  "homepage": "https://github.com/Zach128/feathersjs-personal-demo#readme",
+  "dependencies": {
+    "@feathersjs/feathers": "^4.5.3",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
 }
