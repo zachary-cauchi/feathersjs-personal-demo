@@ -27,5 +27,8 @@
     "@feathersjs/socketio": "^4.5.4",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "@feathersjs/cli": "^4.3.0"
   }
 }
