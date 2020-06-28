@@ -22,7 +22,9 @@
   },
   "homepage": "https://github.com/Zach128/feathersjs-personal-demo#readme",
   "dependencies": {
+    "@feathersjs/express": "^4.5.4",
     "@feathersjs/feathers": "^4.5.3",
+    "@feathersjs/socketio": "^4.5.4",
     "ts-node": "^8.10.2",
     "typescript": "^3.9.5"
   }
