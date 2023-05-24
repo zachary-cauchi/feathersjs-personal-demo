@@ -58,7 +58,7 @@
     "winston": "^3.3.3"
   },
   "devDependencies": {
-    "@feathersjs/cli": "^4.8.0",
+    "@feathersjs/cli": "^5.0.5",
     "@istanbuljs/nyc-config-typescript": "^1.0.1",
     "@types/compression": "^1.7.0",
     "@types/cors": "^2.8.6",
