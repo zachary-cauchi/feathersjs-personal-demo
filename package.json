@@ -29,6 +29,6 @@
     "typescript": "^3.9.5"
   },
   "devDependencies": {
-    "@feathersjs/cli": "^4.8.0"
+    "@feathersjs/cli": "^5.0.5"
   }
 }
